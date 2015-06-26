@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MersMap</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">메르스환자 리스트</string>
+    <string name="action_mershlist">refresh</string>
+    <string name="title_activity_mersh">Mersh</string>
+    <string name="title_activity_mershlist">Mershlist</string>
+</resources>
